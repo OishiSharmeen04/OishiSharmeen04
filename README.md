@@ -1,3 +1,5 @@
+![GitHub Banner](https://github.com/OishiSharmeen04/OishiSharmeen04/blob/main/github_profile_banner.png?raw=true)
+
 # 💫 About Me:
 I'm a frontend developer building with the MERN stack and constantly learning new ways to create better user experiences. Currently exploring advanced React patterns and state management while working on projects that push my skills further. Always open to collaborating on open-source projects or connecting with fellow developers. Let's build something cool together!
 
